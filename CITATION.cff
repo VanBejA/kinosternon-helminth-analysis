@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. Please also cite the associated article (see preferred-citation)."
+type: software
+title: "Analysis code for: Seasonal rainfall drives temporal niche partitioning in the helminth community of scorpion mud turtle (Kinosternon scorpioides) from Marajó Island"
+authors:
+  - family-names: "Bejarano Alegre"
+    given-names: "Vanesa"
+license: MIT
+repository-code: "https://github.com/<your-username>/kinosternon-helminth-analysis"
+preferred-citation:
+  type: article
+  title: "Seasonal rainfall drives temporal niche partitioning in the helminth community of scorpion mud turtle (Kinosternon scorpioides) from Marajó Island"
+  authors:
+    - family-names: "Conga"
+      given-names: "David Fernandez"
+    - family-names: "Helen Costa"
+      given-names: "Jaqueline"
+    - family-names: "Bejarano Alegre"
+      given-names: "Vanesa"
+    - family-names: "Magalhães Bezerra"
+      given-names: "Andréa"
+    - family-names: "Maciel de Castro Cardoso Jaques"
+      given-names: "Adriana"
+  journal: "Journal of Helminthology"
+  volume: "100"
+  year: 2026
+  doi: "10.1017/S0022149X25101132"
+  url: "https://doi.org/10.1017/S0022149X25101132"
