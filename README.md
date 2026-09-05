@@ -30,7 +30,7 @@ R >= 4.2. All required packages are listed and auto-installed by `R/00_config.R`
 ## Running the pipeline
 
 ```bash
-git clone https://github.com/<your-username>/kinosternon-helminth-analysis.git
+git clone https://github.com/VanBejA/kinosternon-helminth-analysis.git
 cd kinosternon-helminth-analysis
 Rscript run_all.R
 ```
